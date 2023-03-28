@@ -25,7 +25,7 @@ class JedisApplicationTests {
         for (String key : keys) {
             System.out.println(key);
         }
-//        关闭连接123
+//        关闭连接
         jedis.close();
     }
 
