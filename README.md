@@ -1,2 +1,2 @@
-# MyJedis
-jedis练习
+# MyRedis
+Redis练习
